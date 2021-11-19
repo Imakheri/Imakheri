@@ -87,7 +87,7 @@ I am currently finishing the Henry bootcamp, where I was able to expand and exer
 
 This project was presented and approved on November 11, 2021. We're going for more, bigger challenges are coming!
 </p>
-<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
+<div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap;">
 <img src="./assets/screenshots/1.png" width="320" height="180" alt="Landing Page Food App" />&nbsp;&nbsp;
 <img src="./assets/screenshots/2.png" width="320" height="180" alt="Home Page Food App" />&nbsp;&nbsp;
 <img src="./assets/screenshots/3.png" width="320" height="180" alt="Detail Page Food App" />&nbsp;&nbsp;
