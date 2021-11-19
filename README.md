@@ -3,7 +3,6 @@
 
 <img src="./assets/Landing.png">
 </br>
-</br>
 
 <p align="justify" ><b>I am a Full Stack Web Developer with a PERN (PostgreSQL, Express, ReactJS, NodeJS) profile, a tech enthusiast since Tamagotchi. Since I was little, in computer science class they instilled in me a curiosity for HTML, with which I began to do my first experiments in notepad.
 
@@ -77,13 +76,22 @@ I am currently finishing the Henry bootcamp, where I was able to expand and exer
 </table>
 
 <h1>Projects</h1>
+<h2>Henry Food App</h2>
+<p>The central idea is a cookbook on different dishes from around the world. It was developed with all the technologies learned during the Bootcamp, such as:
 
-<div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap; margin-left: 10px; margin-bottom: 10px;">
-<img src="./assets/screenshots/1.png" width="320" height="180" alt="Landing Page Food App" />
-<img src="./assets/screenshots/2.png" width="320" height="180" alt="Home Page Food App" />
-<img src="./assets/screenshots/3.png" width="320" height="180" alt="Detail Page Food App" />
+• Sequelize - Postgres
+• Express
+• React.js
+• Redux
+• CSS
+
+This project was presented and approved on November 11, 2021. We're going for more, bigger challenges are coming!
+</p>
+<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
+<img src="./assets/screenshots/1.png" width="320" height="180" alt="Landing Page Food App" />&nbsp;&nbsp;
+<img src="./assets/screenshots/2.png" width="320" height="180" alt="Home Page Food App" />&nbsp;&nbsp;
+<img src="./assets/screenshots/3.png" width="320" height="180" alt="Detail Page Food App" />&nbsp;&nbsp;
 <img src="./assets/screenshots/4.png" width="320" height="180" alt="Create Page Food App" />
-<img src="./assets/screenshots/5.png" width="320" height="180" alt="Detail Page Food App" />
 </div>
 
 <!--
