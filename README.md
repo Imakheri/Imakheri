@@ -3,23 +3,25 @@
 
 <img src="./assets/Landing.png">
 </br>
+</br>
 
+<p align="justify" ><b>I am a Full Stack Web Developer with a PERN (PostgreSQL, Express, ReactJS, NodeJS) profile, a tech enthusiast since Tamagotchi. Since I was little, in computer science class they instilled in me a curiosity for HTML, with which I began to do my first experiments in notepad.
 
-**I am a Full Stack Web Developer with a PERN (PostgreSQL, Express, ReactJS, NodeJS) profile, a tech enthusiast since Tamagotchi. Since I was little, in computer science class they instilled in me a curiosity for HTML, with which I began to do my first experiments in notepad.
+I am currently finishing the Henry bootcamp, where I was able to expand and exercise my technical and social skills as a developer. Previously I was dedicated to social sciences, due to the pandemic, I decided to turn my profession around.
 
-**I am currently finishing the Henry bootcamp, where I was able to expand and exercise my technical and social skills as a developer. Previously I was dedicated to social sciences, due to the pandemic, I decided to turn my profession around.
-
-**I would like us to get in touch!
-
+¡I would like us to get in touch!
+</b>
+</p>
+<br />
 
 <a href="https://www.linkedin.com/in/imakheri"> <img alt=LinkedIn width=8% src='./assets/Linkedin.svg'> &nbsp;
 <a href="https://t.me/Imakheri"> <img alt=Telegram width=8% src='./assets/telegram.jpg'> &nbsp;
 <a href="https://twitter.com/Imakheri"> <img alt=Twitter width=8% src='./assets/twitter.svg'>
-<h2><a href="mailto:francooropel00@gmail.com" >E-mail: imakheri@gmail.com</a></h2>
+<h2><a href="mailto:imakheri@gmail.com" >E-mail: imakheri@gmail.com</a></h2>
 
 <h1>Competencies</h1>
 
-<table align="center">
+<table align="center" style="background-color: #f6f8fa;">
   <tr>
     <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="48" height="48" alt="HTML" />
@@ -76,11 +78,11 @@
 
 <h1>Projects</h1>
 
-<div align="center">
-<img src="./assets/screenshots/1.png" width="320" height="180" alt="Landing Page Food App" />&nbsp;&nbsp;&nbsp;
-<img src="./assets/screenshots/2.png" width="320" height="180" alt="Home Page Food App" />&nbsp;&nbsp;&nbsp;
-<img src="./assets/screenshots/3.png" width="320" height="180" alt="Detail Page Food App" />&nbsp;&nbsp;&nbsp; <br /><br />
-<img src="./assets/screenshots/4.png" width="320" height="180" alt="Create Page Food App" />&nbsp;&nbsp;&nbsp;
+<div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap; margin-left: 10px; margin-bottom: 10px;">
+<img src="./assets/screenshots/1.png" width="320" height="180" alt="Landing Page Food App" />
+<img src="./assets/screenshots/2.png" width="320" height="180" alt="Home Page Food App" />
+<img src="./assets/screenshots/3.png" width="320" height="180" alt="Detail Page Food App" />
+<img src="./assets/screenshots/4.png" width="320" height="180" alt="Create Page Food App" />
 <img src="./assets/screenshots/5.png" width="320" height="180" alt="Detail Page Food App" />
 </div>
 
